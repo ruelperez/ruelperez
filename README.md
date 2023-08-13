@@ -14,6 +14,11 @@ Aspiring to become a Software Engineer. I'm a fresh graduate from <a href="https
 - [Custodian](https://github.com/ruelperez/custodian)
 - [Sportsfest-Litmusda](https://github.com/ruelperez/sportsfest-litmusda)
 ***
+#### Certificates
+- [NC II Computer Systems Servicing](https://drive.google.com/file/d/1h9jMHwQGvRt4zICdETNeFuUFJ55WcE_4/view?usp=drive_link)
+- [Bicol IT Students Congress (BITSCON) 2023](https://drive.google.com/file/d/1_8V1VlbKsPaVBSzJjO3h9EISd2BVpuGy/view?usp=sharing)
+- [11th Bicol Youth Congress in Information Technology (Students Track) “Metaverse”](https://drive.google.com/file/d/1NfgOn8aCUHyk5ZqEAbez8a0wyL7FhP75/view?usp=sharing)
+***
 #### Contact
 <img src="https://api.iconify.design/ic:outline-email.svg" style="background-color: white"/> karuelflorperezz@gmail.com
 <br> <img src="https://api.iconify.design/ph:phone.svg" style="background-color: white;"/> 09955415702
