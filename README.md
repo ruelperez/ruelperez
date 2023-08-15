@@ -8,12 +8,7 @@ Aspiring to become a Software Engineer. I'm a fresh graduate from <a href="https
 
 - I currently learning  **React.js** and **Vue.js**
 ***
-#### Project
-- [Event Tabulation](https://github.com/ruelperez/event-tabulation)
-- [Pre-Enrollment](https://github.com/ruelperez/pre-enrollment)
-- [Custodian](https://github.com/ruelperez/custodian)
-- [Sportsfest-Litmusda](https://github.com/ruelperez/sportsfest-litmusda)
-***
+
 #### Certificates
 - [NC II Computer Systems Servicing](https://drive.google.com/file/d/1h9jMHwQGvRt4zICdETNeFuUFJ55WcE_4/view?usp=drive_link)
 - [Bicol IT Students Congress (BITSCON) 2023](https://drive.google.com/file/d/1_8V1VlbKsPaVBSzJjO3h9EISd2BVpuGy/view?usp=sharing)
